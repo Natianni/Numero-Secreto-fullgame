@@ -15,7 +15,7 @@ Este é um simples jogo de adivinhação de números implementado em JavaScript,
 
 ## Descrição
 
-Este projeto é um jogo onde o jogador deve adivinhar um número entre 0 e 100. A cada tentativa, o jogo fornece dicas se o número correto é maior ou menor do que o chute do jogador. O objetivo é adivinhar o número correto com o menor número de tentativas possível.
+Este projeto é um jogo onde o jogador deve adivinhar um número entre 0 e 50. A cada tentativa, o jogo fornece dicas se o número correto é maior ou menor do que o chute do jogador. O objetivo é adivinhar o número correto com o menor número de tentativas possível.
 
 ## Instalação
 
