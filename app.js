@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = []; //cria uma lista vazia
-let limiteDeNumeros = 10;
+let limiteDeNumeros = 50;
 let numeroSecreto = gerarNumeroAleatorio(); // guarda o valor gerado na funçao do numero secreto
 let tentativas = 1; // guarda o numero de tentativas
 
